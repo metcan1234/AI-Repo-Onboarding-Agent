@@ -1,4 +1,4 @@
-export const CLAUDE_MODEL = "claude-sonnet-4-20250514";
+export const CLAUDE_MODEL = "claude-3-5-sonnet-latest";
 
 export const IGNORED_DIRS = new Set([
   "node_modules",
